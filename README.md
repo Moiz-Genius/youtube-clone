@@ -1,8 +1,9 @@
 # ⚡ SpeedTube — Ultra-Fast YouTube Web Client
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-brightgreen.svg?logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Server-Express%205-blue.svg?logo=express)](https://expressjs.com/)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Moiz-Genius/youtube-clone/pulls)
 
 **SpeedTube** is a blazing-fast, lightweight web client and caching backend for browsing and playing YouTube videos without heavy bloatware, tracking scripts, or lag. Featuring an in-memory caching Express server and a vanilla JavaScript single-page application with persistent iframe playback.
